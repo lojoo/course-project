@@ -1,6 +1,5 @@
 ==================================================================
 ## The dataset includes the following files:
-=========================================
 
 * 'README.md'
 
@@ -16,7 +15,7 @@
 
 
 ## Note:
-==================================================================
+
 ### The original data:
 
 Human Activity Recognition Using Smartphones Dataset
