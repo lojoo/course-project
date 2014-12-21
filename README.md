@@ -1,12 +1,12 @@
 ==================================================================
-The dataset includes the following files:
+## The dataset includes the following files:
 =========================================
 
-- 'README.md'
+* 'README.md'
 
-- 'CodeBook.md':  describes the variables, the data, and any transformations performed to clean up the data
+* 'CodeBook.md':  describes the variables, the data, and any transformations performed to clean up the data
 
-- 'run_analysis.R': R script which 
+* 'run_analysis.R': R script which 
 			merges the training and the test sets;
 			extracts the measurements on the mean and standard deviation for each measurement; 
 			uses descriptive activity names to name the activities in the data set;
@@ -15,9 +15,9 @@ The dataset includes the following files:
 
 
 
-Note:
+## Note:
 ==================================================================
-The original data:
+### The original data:
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
