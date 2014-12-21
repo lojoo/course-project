@@ -18,12 +18,19 @@ These signals were used to estimate variables of the feature vector for each pat
 tBodyAcc-XYZ
 
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
 tBodyGyroJerkMag
 fBodyAcc-XYZ
