@@ -18,27 +18,46 @@ These signals were used to estimate variables of the feature vector for each pat
 tBodyAcc-XYZ
 
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
+
 
 The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
+
 std(): Standard deviation
+
 meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+
 
 In the following data, the means of each above mentioned variable for each activity and each subject. 
 First two variables are grouping variables.
@@ -46,11 +65,14 @@ First two variables are grouping variables.
 ====================================================================
 "Group.1"
 	subject
-		1
-		2
+		1; 2
+		
 		3
+		
 		4
+		
 		5
+		
 		6
 		7
 		8
