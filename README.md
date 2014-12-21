@@ -28,7 +28,7 @@ Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
-www.smartlab.ws
+[www.smartlab.ws]
 ==================================================================
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
