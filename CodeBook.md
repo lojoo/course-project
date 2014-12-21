@@ -59,7 +59,7 @@ std(): Standard deviation
 meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
 
-In the following data, the means of each above mentioned variable for each activity and each subject. 
+In the tidydata, the means of each above mentioned variable for each activity and each subject. 
 First two variables are grouping variables.
 
 ====================================================================
